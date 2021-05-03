@@ -3,6 +3,6 @@
 <br>
 <head>It is a website for learning Python.</head>
 <hr>
-<a href="/user/test/xxxx.txt" download="文件名.txt">点击下载</a>
+<a href="https://github.com/teddy041104/test.github.io/edit/main/21天学通" download="">点击下载</a>
 <hr>
 </html>
